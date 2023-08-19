@@ -6,12 +6,12 @@
 .json/
 .pnp.js
 yarn.lock
-package-lock.json
+product-landing-main/package-lock.json
 
+.idea/
 # production
 /theme
 
-.idea/
 # misc
 .DS_Store
 *.pem
